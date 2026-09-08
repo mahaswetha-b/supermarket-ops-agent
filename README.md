@@ -358,14 +358,9 @@ Implemented modules include:
 
 ## 📌 Future Improvements
 
-* PostgreSQL support for production deployment
-* Improved transaction-level bill architecture
 * Stronger multi-user concurrency handling
-* Complete weekly date-based filtering
 * Advanced GST validation
 * Payment reconciliation
-* Persistent conversational memory
-* Cloud deployment
 * Automated backup and recovery
 
 ---
